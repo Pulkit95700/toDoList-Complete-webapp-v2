@@ -1,0 +1,23 @@
+{
+  "name": "ejs_todolist",
+  "version": "1.0.0",
+  "description": "A to do list project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "My projects and websites"
+  },
+  "author": "Pulkit Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.5.4"
+  }
+}
